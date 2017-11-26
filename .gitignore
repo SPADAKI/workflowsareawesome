@@ -3,4 +3,3 @@ node_modules
 .tmp
 .sass-cache
 build/**/images/*
-package-lock.json
